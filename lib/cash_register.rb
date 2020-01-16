@@ -31,7 +31,7 @@ def apply_discount
  @total
  end 
  def void_last_transaction
-   @
+   @items.delt
    
  end
  end
