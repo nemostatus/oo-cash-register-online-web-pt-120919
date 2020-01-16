@@ -34,6 +34,7 @@ def apply_discount
    @total-=@last_transaction_amount
    
  end
+ end
 
 
 
