@@ -16,7 +16,7 @@ def apply_discount
  end 
  end 
  
- def add_item(name,price)
+ def add_item(name,price,number =1)
    if number>1 
      i = 0
      while i<number
